@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# A Cpp-raider blog
-
 hello, world! <br />
 This page is for announce & blog use.
 
