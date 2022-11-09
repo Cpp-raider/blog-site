@@ -5,7 +5,7 @@
 
 layout: home
 ---
-## Wellcome to this page!
+## Wellcome to blog page!
 hello, world! <br />
 This page is for announce & blog use. <br />
 [Please view web site, too!](https://www.ccp-raider.ml/en/)
